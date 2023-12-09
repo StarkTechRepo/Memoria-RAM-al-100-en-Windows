@@ -32,7 +32,7 @@ Este repositorio proporciona información y soluciones para abordar el problema 
 - **Programas en segundo plano:** Identifica y cierra procesos que consumen recursos innecesarios.
 - **Malware:** Escanea y elimina posibles amenazas que podrían estar afectando el rendimiento del sistema.
 - **Controladores de hardware:** Asegúrate de tener los controladores actualizados y compatibles.
-- **Configuración del sistema:** Optimiza las configuraciones del sistema operativo para mejorar el rendimiento.
+- **Configuración del sistema:** Optimiza las configuraciones del sistema operativo para mejorar el rendimiento. Una mala optimización puede ocasionar problemas.
 
 ---
 
