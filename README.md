@@ -1,6 +1,6 @@
 # Uso de Memoria RAM al 100% en Windows - Causas y Soluciones
 
-![imagen](foto.jpeg)
+![imagen](foto.jpg))
 
 Este repositorio proporciona información y soluciones para abordar el problema común de un alto uso de memoria RAM en sistemas operativos Windows. El uso excesivo de memoria puede afectar el rendimiento del sistema y causar inconvenientes a los usuarios.
 
