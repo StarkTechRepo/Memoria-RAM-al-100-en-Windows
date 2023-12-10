@@ -39,7 +39,7 @@ Este repositorio proporciona información y soluciones para abordar el problema 
 ## Soluciones:
 
 1. **Reinicio del sistema:** Utiliza el comando `shutdown /r /t 0` para reiniciar el sistema y liberar la memoria RAM.
-2. **Administración de procesos:** Usa `tasklist` y `taskkill` para identificar y cerrar programas que consumen demasiada memoria.
+2. **Administración de procesos:** Usa `tasklist` y `taskkill /f /im NOMBRE_DEL_PROCESO` para identificar y cerrar programas que consumen demasiada memoria.
 3. **[Escaneo de malware](https://github.com/StarkTechRepo/Desinfectar-Windows-de-Virus-como-Profesional)** Realiza un escaneo completo del sistema con software antivirus o antimalware. 
 4. **[Actualización de controladores](https://github.com/StarkTechRepo/Guia-para-Instalar-Controladores):** Asegúrate de tener los controladores más recientes para tus dispositivos.
 5. **[Optimización de la configuración del sistema](https://github.com/StarkTechRepo/Optimizar-Personalizar-Windows):** Utiliza `msconfig` para ajustar la configuración de inicio y servicios, asegurándote de que todas las opciones avanzadas estén desactivadas para evitar problemas.
